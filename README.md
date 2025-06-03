@@ -9,25 +9,25 @@ Left hand's functions can be customed by tkinter GUI.
 
 ### Requirements
 
-Python 3.11
+ Python 3.11
 
-OpenCV
+ OpenCV
 
-Mediapipe
+ Mediapipe
 
-PyAutoGUI
+ PyAutoGUI
 
-Tkinter
+ Tkinter
 
-TTkthemes
+ TTkthemes
 
-Pillow
+ Pillow
 
 ### How to use
 
-Clone the repo
+1. Clone the repo
 
-Install the requirements
+2. Install the requirements
 
-Run GUI_hand_gesture_mouse.py
+3. Run GUI_hand_gesture_mouse.py
 
