@@ -8,16 +8,26 @@ Right hand is used to control the mouse and left hand is used to perform other f
 Left hand's functions can be customed by tkinter GUI.
 
 ### Requirements
+
 Python 3.11
+
 OpenCV
+
 Mediapipe
+
 PyAutoGUI
+
 Tkinter
+
 TTkthemes
+
 Pillow
 
 ### How to use
+
 Clone the repo
+
 Install the requirements
+
 Run GUI_hand_gesture_mouse.py
 
